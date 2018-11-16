@@ -1,0 +1,14 @@
+.wrapper {
+    overflow-y: hidden!important;
+}
+.wrapper .form-horizontal {
+    padding: 20px;
+}
+.wrapper .alert {
+    margin: 20px;
+}
+.msg-error {
+    color: #dd4b39;
+}
+
+
